@@ -1,0 +1,7 @@
+# Secrets: never commit API keys
+key.yaml
+.env
+
+__pycache__/
+agent_workspace/
+notes.md
